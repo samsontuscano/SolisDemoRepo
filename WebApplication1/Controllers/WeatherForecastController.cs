@@ -8,7 +8,7 @@ namespace WebApplication1.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "S1", "S2", "S3", "S4", "S5", "S6", "S7", "S8", "S9", "S10"
+            "SAS1", "SAS1", "SAS1", "SAS1", "SAS1", "SAS1", "SAS1", "SAS1", "SAS1", "SAS1"
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
